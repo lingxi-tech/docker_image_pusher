@@ -1,3 +1,6 @@
+maildev/maildev:latest
+mysql:8.3.0
+testlilnk:1.9.20
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
