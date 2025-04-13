@@ -2,6 +2,7 @@ php:7.4-apache
 maildev/maildev:latest
 mysql:8.3.0
 zimatec/ros:zima-demo-v0.1.1
+gitlab/gitlab-ce:14.10.4-ce.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
