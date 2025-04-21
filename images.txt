@@ -5,6 +5,7 @@ zimatec/ros:zima-demo-v0.1.1
 gitlab/gitlab-ce:14.10.4-ce.0
 ubuntu:latest
 nextcloud:fpm
+nextcloud:29.0-fpm
 onlyoffice/documentserver:latest
 nginx
 mysql
